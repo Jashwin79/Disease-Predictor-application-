@@ -12,9 +12,9 @@ A Java application that helps diagnose diseases based on selected symptoms. This
 
 ## Requirements
 
-- Java 8 or higher
+- Java 
 - MySQL Database
-- MySQL JDBC Driver
+- MySQL JDBC driver
 
 ## Setup
 
